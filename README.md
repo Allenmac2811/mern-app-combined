@@ -1,5 +1,7 @@
 # Update Direction-MERN 
 
+Photos will not be saved on this app as it is running on a free hosting tire
+
 Direction is a web application, that provides users a platform to signup/login and share photos and places they have visited.
 
 # Description
